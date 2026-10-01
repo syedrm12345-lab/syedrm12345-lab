@@ -19,7 +19,7 @@ I'm based in Melbourne, Australia, and I like understanding how things work and 
 - Previously held a senior role in a student-run humanitarian relief organisation
 - Completed the **Duke of Edinburgh Award**
 
-## 🛠️ Tech I work with
+## Tech I work with
 
 `Kotlin` `Jetpack Compose` `C++` `Python` `Docker` `Ollama` `Arduino` `Android Studio` `Conda`
 
